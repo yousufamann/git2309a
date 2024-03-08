@@ -1,0 +1,20 @@
+@media only screen and (max-width :389px)
+{
+    .navbar{
+       font-family: 'Times New Roman', Times, serif;
+    }
+}
+@media only screen and (max-width : 389px)
+{
+    .row{ width: 100%;
+    }
+.t1{ height: 200px;
+    width: 170%;
+}
+.t2{ width: 170%;
+    height: 200px;
+}
+.t3{ width: 1705;
+    height: 100px;
+}
+}
